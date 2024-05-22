@@ -1,6 +1,6 @@
 # Pattern-2-Square-with-Hollow-Center
 code
-size = int(input()) # but it works only whith values over 3 : 4, 5 and ets.
+size = int(input()) # but it works only whith values over 3 : 4, 5 and etc.
 
 print(size * "*") 
 for i in range(1, size):
